@@ -1,0 +1,102 @@
+[
+  {
+    "name": "John Smith",
+    "birthday": "02.10.1990",
+    "height": 175,
+    "weight": 76.5,
+    "car": true,
+    "languages": [
+      "C++",
+      "Python"
+    ]
+  },
+  {
+    "name": "Alexey Alexeev",
+    "birthday": "05.06.1986",
+    "height": 197,
+    "weight": 101.2,
+    "car": false,
+    "languages": [
+      "Pascal",
+      "Delphi"
+    ]
+  },
+  {
+    "name": "Maria Ivanova",
+    "birthday": "28.08.1998",
+    "height": 165,
+    "weight": 56.1,
+    "car": true,
+    "languages": [
+      "C#",
+      "C++",
+      "C"
+    ]
+  },
+  {
+    "name": "Alexander",
+    "birthday": "12.12.1990",
+    "height": 173,
+    "weight": 84.3,
+    "car": true,
+    "languages": [
+      "python",
+      "js"
+    ]
+  },
+  {
+    "name": "Alexander",
+    "birthday": "12.12.1990",
+    "height": 173,
+    "weight": 84.3,
+    "car": true,
+    "languages": [
+      "python",
+      "js"
+    ]
+  },
+  {
+    "name": "Nik",
+    "birthday": "12.12.1932",
+    "height": 178,
+    "weight": 32.3,
+    "car": false,
+    "languages": [
+      "java",
+      "js"
+    ]
+  },
+  {
+    "name": "Alexander",
+    "birthday": "12.12.1990",
+    "height": 173,
+    "weight": 84.3,
+    "car": true,
+    "languages": [
+      "python",
+      "js"
+    ]
+  },
+  {
+    "name": "Maxim",
+    "birthday": "23.09.1978",
+    "height": "174",
+    "weight": "87",
+    "car": "true",
+    "languages": [
+      "code",
+      "f#"
+    ]
+  },
+  {
+    "name": "Max",
+    "birthday": "23.11.1988",
+    "height": "198",
+    "weight": "90",
+    "car": "true",
+    "languages": [
+      "java",
+      "pascal"
+    ]
+  }
+]

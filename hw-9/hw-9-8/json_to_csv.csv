@@ -1,0 +1,10 @@
+name,birthday,height,weight,car,languages
+John Smith,02.10.1990,175,76.5,True,"['C++', 'Python']"
+Alexey Alexeev,05.06.1986,197,101.2,False,"['Pascal', 'Delphi']"
+Maria Ivanova,28.08.1998,165,56.1,True,"['C#', 'C++', 'C']"
+Alexander,12.12.1990,173,84.3,True,"['python', 'js']"
+Alexander,12.12.1990,173,84.3,True,"['python', 'js']"
+Nik,12.12.1932,178,32.3,False,"['java', 'js']"
+Alexander,12.12.1990,173,84.3,True,"['python', 'js']"
+Maxim,23.09.1978,174,87,true,"['code', 'f#']"
+Max,23.11.1988,198,90,true,"['java', 'pascal']"
